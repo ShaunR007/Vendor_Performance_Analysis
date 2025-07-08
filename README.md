@@ -33,4 +33,4 @@ A complete data analysis project using *SQL, **Python, and **Power BI* to evalua
 Hi, I’m Shaun Richard — a data analyst passionate about turning raw data into meaningful insights.
 
 📧 shaunrichard1007@email.com  
-🔗 [LinkedIn](www.linkedin.com/in/shaun-richard-b79a38288)
+🔗 [LinkedIn]www.linkedin.com/in/shaun-richard-b79a38288
